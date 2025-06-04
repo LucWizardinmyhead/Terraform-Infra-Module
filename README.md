@@ -1,7 +1,7 @@
 # Terraform-Infra-Module
 
 ## 📹 Video Demo  
-[[Watch the Demo](https://www.loom.com/share/3590698bd5604e3d87a0f11887def972?sid=ed4e75b0-26b3-492e-85bb-6d6ffdadc3c8)
+[Watch the Demo](https://www.loom.com/share/3590698bd5604e3d87a0f11887def972?sid=ed4e75b0-26b3-492e-85bb-6d6ffdadc3c8)
 
 ## 🔍 Key Features  
 - Automates **EC2 + VPC deployment** with Terraform  
