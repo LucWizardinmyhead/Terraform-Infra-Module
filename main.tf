@@ -1,3 +1,5 @@
+#Developed by Lucas Jones
+
 provider "aws" {
     region = var.aws_region
 }
